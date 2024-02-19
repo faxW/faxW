@@ -1,0 +1,27 @@
+/**
+ * @name esta
+ * @author fax
+ * @version auto updates
+ * @description dis was made by fax
+ * @source 
+ * @authorLink https://vsthemes.org/user/TereruNaYo/
+ * @authorId 65141
+*/
+@import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
+:root {
+    --transparencycolor: 0,0,0;
+    --transparencyalpha: 0.05;
+    --messagetransparency: 0.3;
+    --guildchanneltransparency: 0.2;
+    --memberlistransparency: 0.05;
+    --accentcolor: 192,192,192;
+    --background: url("https://cdn.discordapp.com/emojis/1139734648407199804.gif?size=96&quality=lossless");
+    --backdrop: rgba(0,0,0,0.2);
+    --backgroundblur: 0px;
+    --popoutblur: 0px;
+    --backdropblur: 0px;
+    --version1_0_5:none;
+    --backgroundsize: cover;
+    --popoutsize: cover;
+    --backdropsize: cover;
+}
